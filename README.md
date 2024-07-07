@@ -1,5 +1,6 @@
 # stepik-id-printer
 
+![image](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 
 Это проект вывода моего ID на образовательной платформе `stepik.org`
 
